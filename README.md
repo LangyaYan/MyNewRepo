@@ -1,0 +1,2 @@
+# mynewrepo
+Studying Git
